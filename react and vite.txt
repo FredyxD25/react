@@ -1,0 +1,54 @@
+npm create vite
+Need to install the following packages:
+create-vite@8.0.2
+Ok to proceed? (y) y
+
+
+> npx
+> create-vite
+
+│
+◇  Project name:
+│  primer_proyecto
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  TypeScript
+│
+◇  Use rolldown-vite (Experimental)?:
+│  No
+│
+◇  Install with npm and start now?
+│  Yes
+│
+◇  Scaffolding project in E:\Datos Fredy\Programacion\react\primer_proyecto...
+│
+◇  Installing dependencies with npm...
+
+added 191 packages, and audited 192 packages in 30s
+
+47 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+│
+◇  Starting dev server...
+
+> primer_proyecto@0.0.0 dev
+> vite
+
+
+  VITE v7.1.12  ready in 464 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+-----------------------------------------------------------------------------
+
+npm install
+
+npm run dev
+
